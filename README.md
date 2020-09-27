@@ -41,7 +41,7 @@ To run the vessel detection in ultra-widefield fundus photography the pre-traine
 ```
 The results will be saved to `./results`. This folder will be automatically generated if it does not exist. Please see the comments in `run_detect_FP_vessels_w_DNN.sh` for parameter settings. The detected retinal vessel maps are saved as PNG images in `./results`.
 
-By default, the code demonstrate the vessel detection on three sample images `ImgFP10_PRIME-FP20.tif`, `ImgFP11_PRIME-FP20.tif`, and `ImgFP12_PRIME-FP20.tif` in `./data/datasets/sample_images_from_PRIME-FP20/Images_FP_PRIME-FP20`. The predicted vessel maps are stored in `./results`. The trained model used for obtaining the segmentation is provided as `./data/pretrained_models/model_4.pth` and corresponds to the model used for generating the results for these images for Table 2 of the above paper. That is, it is the model from the 5-fold cross-validation procedure that was trained on 12 images in the PRIME-FP20 dataset (see paper for details).
+By default, the code demonstrate the vessel detection on three sample images `ImgFP10_PRIME-FP20.tif`, `ImgFP11_PRIME-FP20.tif`, and `ImgFP12_PRIME-FP20.tif` in `./data/datasets/sample_images_from_PRIME-FP20/Images_FP_PRIME-FP20`. The predicted vessel maps are stored in `./results`. The trained model used for obtaining the segmentation is provided as `./data/pretrained_models/model_4.pth` and corresponds to the model used for generating the results for these images for Table 2 of the above paper. That is, it is the model from the 5-fold cross-validation procedure that was trained on the other 12 images in the PRIME-FP20 dataset (see paper for details).
 
 ## Evaluate Detected Vessel Maps
 
