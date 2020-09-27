@@ -7,8 +7,8 @@ IEEE Transactions on Medical Imaging, 2020, accepted for publication, to appear.
 
 
 <p align="justify">
-<a href="http://www.ece.rochester.edu/~gsharma/papers/">[Paper]</a>
-<a href="http://www.ece.rochester.edu/~gsharma/papers/">[Supplementary]</a>
+<a href="http://www.ece.rochester.edu/~gsharma/papers/Ding_IterVDRegUWFFP_TMI2020.pdf">[Paper]</a>
+<a href="http://www.ece.rochester.edu/~gsharma/papers/Suppl_Ding_IterVDRegUWFFP_TMI2020.pdf">[Supplementary]</a>
 <a href="https://doi.org/10.21227/ctgj-1367">[Dataset]</a>
 <a href="https://doi.org/10.24433/">[Code Ocean capsule]</a>
 <a href="https://labsites.rochester.edu/gsharma/research/computer-vision/">[Project Website]</a>
