@@ -4,6 +4,7 @@ This repository contains code for evaluating the retinal vessel segmentation and
 Li Ding, Ajay E. Kuriyan, Rajeev S. Ramchandran, Charles C. Wykoff, and Gaurav Sharma,
 "Weakly-Supervised Vessel Detection in Ultra-Widefield Fundus Photography Via Iterative Multi-Modal Registration and Learning",
 IEEE Transactions on Medical Imaging, 2020, accepted for publication, to appear.
+https://doi.org/10.1109/TMI.2020.3027665
 
 
 <p align="justify">
