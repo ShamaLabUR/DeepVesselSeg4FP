@@ -67,5 +67,6 @@ author={L. Ding and A. E. Kuriyan and R. S. Ramchandran and C. C. Wykoff and G. 
 journal={IEEE Transactions on Medical Imaging}, 
 title={Weakly-Supervised Vessel Detection in Ultra-Widefield Fundus Photography Via Iterative Multi-Modal Registration and Learning},
 year={2020},
+doi={10.1109/TMI.2020.3027665},
 note={accepted for publication, to appear},
 }
