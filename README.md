@@ -11,7 +11,7 @@ https://doi.org/10.1109/TMI.2020.3027665
 <a href="http://www.ece.rochester.edu/~gsharma/papers/Ding_IterVDRegUWFFP_TMI2020.pdf">[Paper]</a>
 <a href="http://www.ece.rochester.edu/~gsharma/papers/Suppl_Ding_IterVDRegUWFFP_TMI2020.pdf">[Supplementary]</a>
 <a href="https://doi.org/10.21227/ctgj-1367">[Dataset]</a>
-<a href="https://doi.org/10.24433/">[Code Ocean capsule]</a>
+<a href="https://doi.org/10.24433/CO.5712234.v1">[Code Ocean capsule]</a>
 <a href="https://labsites.rochester.edu/gsharma/research/computer-vision/">[Project Website]</a>
 </p>
 
@@ -33,7 +33,7 @@ The program requires Python 3.x and the following packages:
 For specifc package version etc, please see the Code Ocean capsule. GPU is highly recommended.
 
 ## Run the Program using Code Ocean
-We recommend using the Code Ocean version of this program, which can be run using Code Ocean's built-in interface. The code is available [here](https://doi.org/10.24433/). To use the code independently, without using the Code Ocean platform, you can either download a compute capsule from Code Ocean or get the code from GitHub and complete required manual steps of getting the pre-trained model from Code Ocean and any configuration/API adjustments caused by differences in package versions.
+We recommend using the Code Ocean version of this program, which can be run using Code Ocean's built-in interface. The code is available [here](https://doi.org/10.24433/CO.5712234.v1). To use the code independently, without using the Code Ocean platform, you can either download a compute capsule from Code Ocean or get the code from GitHub and complete required manual steps of getting the pre-trained model from Code Ocean and any configuration/API adjustments caused by differences in package versions.
 
 ## Detect Retinal Vessels using the provided Pre-trained Model
 To run the vessel detection in ultra-widefield fundus photography the pre-trained model, go to `./code` folder and execute the bash script
