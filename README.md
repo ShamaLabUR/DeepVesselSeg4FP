@@ -12,7 +12,7 @@ https://doi.org/10.1109/TMI.2020.3027665
 <a href="http://www.ece.rochester.edu/~gsharma/papers/Suppl_Ding_IterVDRegUWFFP_TMI2020.pdf">[Supplementary]</a>
 <a href="https://doi.org/10.21227/ctgj-1367">[Dataset]</a>
 <a href="https://doi.org/10.24433/CO.5712234.v1">[Code Ocean capsule]</a>
-<a href="https://labsites.rochester.edu/gsharma/research/computer-vision/">[Project Website]</a>
+<a href="https://labsites.rochester.edu/gsharma/research/computer-vision/deep-retinal-vessel-segmentation-for-ultra-widefield-fundus-photography/">[Project Website]</a>
 </p>
 
 <p align="center">
